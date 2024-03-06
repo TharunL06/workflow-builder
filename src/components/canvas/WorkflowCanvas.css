@@ -1,0 +1,8 @@
+.workflow-canvas {
+  margin-top: 1px;
+  height: 600px;
+  border: 2px solid #b81f9e;
+  background-color: #220542;
+  background-image: radial-gradient(white 1%, transparent 8%);
+  background-size: 15px 15px;
+}
